@@ -21,13 +21,13 @@ A full-stack dormitory management system with admin panel, mobile client, and ba
 ## 📦 Projects
 
 ### 🖥️ Admin System
-👉 https://github.com/你的用户名/dormitory-system-admin  
+👉 https://github.com/ntfound404/dormitory-system-admin  
 
 ### ⚙️ Backend System
-👉 https://github.com/你的用户名/dormitory-system-backend  
+👉 https://github.com/ntfound404/dormitory-system-backend  
 
 ### 📱 Mobile System
-👉 https://github.com/你的用户名/dormitory-system-mobile  
+👉 https://github.com/ntfound404/dormitory-system-mobile  
 
 ## 🛠️ Tech Stack
 
