@@ -1,39 +1,55 @@
 # 🏠 Dormitory Management System
 
-## 📖 Overview
-A full-stack dormitory management system with admin panel, mobile client, and backend services.
+## 📖 Project Overview
+A full-stack dormitory management system designed for efficient student housing management, including admin panel, mobile client, and backend services.
 
-## 🧩 Architecture
+## 🚀 Tech Stack
 
-- Admin (Web): Vue 3 + Element Plus  
-- Mobile (H5/App): Vue 3 + Vant  
-- Backend: Spring Boot + MyBatis-Plus  
-- Database: MySQL + Redis  
+### Frontend (Admin)
+- Vue 3 + Vite + Pinia + Element Plus
 
-## 🚀 Features
+### Mobile
+- Vue 3 + Vant
 
-- Role-based access control (RBAC)
-- Dormitory & student management
-- Attendance system
-- Announcement system
-- Mobile check-in support
+### Backend
+- Spring Boot + MyBatis-Plus
 
-## 📦 Projects
+### Database
+- MySQL + Redis
 
-### 🖥️ Admin System
-👉 https://github.com/ntfound404/dormitory-system-admin  
+---
 
-### ⚙️ Backend System
-👉 https://github.com/ntfound404/dormitory-system-backend  
+## 🧩 System Architecture
 
-### 📱 Mobile System
-👉 https://github.com/ntfound404/dormitory-system-mobile  
+Frontend (Admin)  --->  
+                      Backend (Spring Boot) ---> MySQL / Redis  
+Mobile (H5/App)  --->  
 
-## 🛠️ Tech Stack
+---
 
-- Vue 3 / Vite / Pinia  
-- Spring Boot / MyBatis-Plus  
-- MySQL / Redis  
+## ✨ Core Features
+
+- RBAC (Role-Based Access Control)
+- Dormitory & Student Management
+- Attendance System
+- Announcement System
+- Mobile Check-in
+- Multi-role Permission Control
+
+---
+
+## 📦 Project Structure
+
+- Admin: https://github.com/ntfound404/dormitory-system-admin
+- Backend: https://github.com/ntfound404/dormitory-system-backend
+- Mobile: https://github.com/ntfound404/dormitory-system-mobile
+
+---
+
+## 📸 Screenshots（建议你补）
+（这里可以放系统截图）
+
+---
 
 ## 📌 Author
 Si Kaige
