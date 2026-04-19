@@ -46,9 +46,6 @@ Mobile (H5/App)  --->
 
 ---
 
-## 📸 Screenshots（建议你补）
-（这里可以放系统截图）
-
 ---
 
 ## 📌 Author
